@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello_toast</string>
+    <string name="labelBtnToast">TOAST</string>
+    <string name="labelBtnCount">COUNT</string>
+    <string name="valuelnittalCount">0</string>
+</resources>
